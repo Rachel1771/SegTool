@@ -1,1 +1,5 @@
 AttentionUnet.onnx filter=lfs diff=lfs merge=lfs -text
+Fcn.onnx filter=lfs diff=lfs merge=lfs -text
+MTDUnet.onnx filter=lfs diff=lfs merge=lfs -text
+Unet++.onnx filter=lfs diff=lfs merge=lfs -text
+Unet.onnx filter=lfs diff=lfs merge=lfs -text
