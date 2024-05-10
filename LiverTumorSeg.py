@@ -5,7 +5,7 @@ add_page_title()
 
 show_pages(
     [
-        Page("LiverTumoSeg.py", "欢迎来到Rachel的分割工具箱", "💻"),
+        Page("LiverTumorSeg.py", "欢迎来到Rachel的分割工具箱", "💻"),
 
         # 菜单一
         # Section("友爱之家", "🧙‍♂️"),
